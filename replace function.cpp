@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-int main() {
+int main(){
 
 string string1 = "Hello world!";
 string string2 = "Codio.";
