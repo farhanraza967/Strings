@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-int main() {
+int main(){
   
 string my_string = "Today is Satur";
 my_string.insert(my_string.length(), "day");
