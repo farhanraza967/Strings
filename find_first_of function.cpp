@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-int main() {
+int main(){
 
 string string1 = "The brown dog jumps over the lazy fox.";
 string string2 = "brown";
