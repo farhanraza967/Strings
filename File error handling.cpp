@@ -1,8 +1,7 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
-
-int main() {
+int main(){
 string path = "student/text/practice1.txt";
 
 try { //try these actions
@@ -18,7 +17,5 @@ try { //try these actions
 catch (exception& e) { //catch error
   cerr << e.what() << endl;
 }
-  
   return 0;
-  
 }
